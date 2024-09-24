@@ -1,0 +1,15 @@
+#
+# 【Peitify - DiscordBot】
+# config.yaml
+#
+# Botを動作させるために必要なデータをここに入力します
+# DiscordBotのTokenは以下から生成してください
+# https://discord.com/developers/docs/intro
+#
+
+
+# DiscordBotのTokenを文字列で指定
+# Example:
+# TOKEN: "HogeHogeFugaFugaPiyoPiyo"
+
+TOKEN: ""
